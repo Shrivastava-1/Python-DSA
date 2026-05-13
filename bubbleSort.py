@@ -9,5 +9,5 @@ def bubble_sort(lists):
         x -= 1
     print(lists)
 
-data = [1,23,21,14,3,54]
+data = [1,23,21,14,3,-4,32]
 user = bubble_sort(data)
